@@ -40,6 +40,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _Murtaza_ | 19 - 20 | 17 - 20 |  17 - 20  | 17 - 20  | :-----: | :-----:  | :-----: | [JUST FOR TESTING]
 
 ### How many hours everyone has per day:
 
