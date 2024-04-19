@@ -15,5 +15,3 @@
 2. Are developers who actively pursue learning opportunities more likely to experience career advancement compared to those who do not prioritize continuous learning?
 3. Are there any trends or patterns indicating whether job satisfaction increases or decreases as developers gain more experience in the industry?
 4. Do companies with more diverse gender representation tend to have narrower salary gaps between male and female developers, and what initiatives are associated with greater gender equality in compensation?
-
-
