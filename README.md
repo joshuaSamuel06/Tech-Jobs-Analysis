@@ -16,7 +16,4 @@
 3. Are there any trends or patterns indicating whether job satisfaction increases or decreases as developers gain more experience in the industry?
 4. Do companies with more diverse gender representation tend to have narrower salary gaps between male and female developers, and what initiatives are associated with greater gender equality in compensation?
 
-### Murtaza
-1. Which programming, scripting, and markup languages have seen increased usage in software development over the past few years?
-2. What are the most commonly utilized database environments for development projects in the past year?
-3. Is there a discernible correlation between the size of companies and the adoption of specific AI-powered search tools for business operations?
+
