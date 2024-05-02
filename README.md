@@ -21,3 +21,10 @@
 1. Which programming, scripting, and markup languages are used to develop programs in the last years?
 2. What are the most utilized database environments for development projects in the past year?
 3. Is there a discernible correlation between the size of companies and the adoption of specific AI-powered search tools for business operations?
+
+### Zia
+1. Are professional developers using artificial intelligence tools in their development process ?
+2. What is the biggest benefit that developers perceive from AI tools, and what are the secondary benefits that are closely associated with them?
+3. What is the biggest benefit that developers perceive from AI tools, and what are the secondary benefits that are closely associated with them?
+4. What is the main difference in perceived benefits between developers who currently use AI tools for writing code and those who are not interested in using them? 
+5. Could this disconnect be attributed to the varying types of developers and their specific use cases that align with the functionality offered by AI tools?
