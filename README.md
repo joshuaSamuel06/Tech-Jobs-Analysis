@@ -13,8 +13,9 @@
 ### Negin
 1. What percentage of developers prefer remote work, and how has this trend changed over recent years?
 2. Are developers who actively pursue learning opportunities more likely to experience career advancement compared to those who do not prioritize continuous learning?
-3. Are there any trends or patterns indicating whether job satisfaction increases or decreases as developers gain more experience in the industry?
-4. Do companies with more diverse gender representation tend to have narrower salary gaps between male and female developers, and what initiatives are associated with greater gender equality in compensation?
+3. Are developers with certain educational backgrounds more likely to pursue specific career paths?
+4. Are there any trends or patterns indicating whether job satisfaction increases or decreases as developers gain more experience in the industry?
+5. What factors influence job satisfaction among developers?
 
 ### Murtaza 
 1. Which programming, scripting, and markup languages are used to develop programs in the last years?
