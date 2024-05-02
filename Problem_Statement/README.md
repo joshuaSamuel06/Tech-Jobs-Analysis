@@ -5,9 +5,9 @@
 The integration of automation and artificial intelligence (AI) technologies in workplaces has brought about significant changes in employees' workflow and efficiency. Understanding the impact of these technologies on various aspects of work is crucial for organizations to adapt and optimize their strategies effectively.
 
 ## Core Questions:
-1- What is the current landscape of tool usage within the tech industry, particularly in relation to automation and AI?
-2- How do developers from different countries perceive and utilize automation and AI technologies in their work?
-3- What level of education do developers predominantly possess, and how does this influence their adoption and utilization of automation and AI tools?
+1. What is the current landscape of tool usage within the tech industry, particularly in relation to automation and AI?
+2. How do developers from different countries perceive and utilize automation and AI technologies in their work?
+3. What level of education do developers predominantly possess, and how does this influence their adoption and utilization of automation and AI tools?
 
 ## Global Impact:
 The widespread adoption of automation and AI technologies has implications beyond individual organizations, influencing global workforce dynamics, economic structures, and societal norms. Understanding the nuanced effects of these technologies on employees' work patterns and efficiency can inform policies, practices, and investments aimed at harnessing their potential benefits while mitigating potential risks.
