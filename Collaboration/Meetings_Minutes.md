@@ -10,12 +10,12 @@
 ## Attendees
 Name | Presence
 ---- | ----
-Negin Ahmadi | Yes NO 
-Victoria Berestiana | Yes NO  
-Zia Yazdani | Yes NO  
-Jashua Samuel | Yes NO  
-Mustafa Kaplan | Yes NO  
-Murtaza Hakimi | Yes NO  
+Negin Ahmadi | Yes No 
+Victoria Berestiana | Yes No  
+Zia Yazdani | Yes No  
+Jashua Samuel | Yes No  
+Mustafa Kaplan | Yes No  
+Murtaza Hakimi | Yes No  
 
 ## Agenda
 1. [Topic 1](#topic-1)
