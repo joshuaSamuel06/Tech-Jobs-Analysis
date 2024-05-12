@@ -15,9 +15,9 @@
 5. Are professional developers using artificial intelligence tools in their development process ?
 
 ### Negin
-1. What percentage of developers prefer remote work, and how has this trend changed over recent years?
-2. Are developers who actively pursue learning opportunities more likely to experience career advancement compared to those who do not prioritize continuous learning?
-3. Are developers with certain educational backgrounds more likely to pursue specific career paths?
-4. Are there any trends or patterns indicating whether job satisfaction increases or decreases as developers gain more experience in the industry?
-5. Is there a discernible correlation between the size of companies and the adoption of specific AI-powered search tools for business operations?
-6. What is the biggest benefit that developers perceive from AI tools, and what are the secondary benefits that are closely associated with them?
+1.	What percentage of developers prefer remote work, and how has this trend changed over recent years?
+2.	How does remote work preference vary across different age groups, countries and industries among developers?
+3.	How does annual compensation vary with different levels of work experience?
+4.	How do career paths among developers vary based on their educational backgrounds, and concurrently, what is the distribution of educational backgrounds among developers?
+5.	How do trust levels in the accuracy of AI tools vary across different country groups, and simultaneously, how does the usage of AI-powered search tools vary across different age demographics?
+
