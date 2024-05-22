@@ -3,7 +3,6 @@
 Several factors may contribute to these findings. The prominence of C can be attributed to its foundational role in system programming and its efficiency in resource-constrained environments. Java's widespread use in enterprise applications, coupled with its portability across platforms, ensures its continued popularity. JavaScript's essential role in web development makes it indispensable for front-end developers. Python's simplicity and versatility, particularly in data science, artificial intelligence, and academic research, bolster its usage. On the other hand, less popular languages like Visual Basic, APL, and Flow are either considered outdated, have niche applications, or lack the extensive community and industry support that bolsters the popularity of more commonly used languages. This disparity in usage highlights the influence of industry demands, community support, and the evolving nature of technology on programming language adoption.
 
 #### Most Languages Have Worked With
-| First Header  | Second Header |
 | ------------- | ------------- |
 |  C           | 66,235  | 
 | Java        | 55,727  | 
