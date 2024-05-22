@@ -4,6 +4,11 @@ Several factors may contribute to these findings. The prominence of C can be att
 
 #### Most Languages Have Worked With
 
+
+| c     | 66,235   |
+| Java  | 55,727   |
+
+
 |  1  | C           | 66,235  | 
 |  2  | Java        | 55,727  | 
 |  3  | JavaScript  | 48,991  | 
