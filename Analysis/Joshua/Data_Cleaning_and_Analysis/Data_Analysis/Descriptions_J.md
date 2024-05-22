@@ -9,28 +9,30 @@ Several factors may contribute to these findings. The prominence of C can be att
 | Java        | 55,727  | 
 | JavaScript  | 48,991  | 
 |  HTML/CSS    | 39,916  | 
-|  5  | SQL         | 39,804  | 
-|  6  | Python      | 35,888  | 
-|  7  | C++         | 15,304  | 
-|  8  | Visual Basic| 3,157   | 
-|  9  | Flow        | 194     | 
-|  10 | APL         | 151     | 
+|  SQL         | 39,804  | 
+|   Python      | 35,888  | 
+|  C++         | 15,304  | 
+| Visual Basic| 3,157   | 
+| Flow        | 194     | 
+|  APL         | 151     | 
 
 - <p>The survey data indicates that the most desired programming languages to work with are C, Java, JavaScript, and Python, with respective interest counts of 54,823, 35,891, 30,538, and 29,245. Conversely, languages such as Flow (138), APL (277), and Visual Basic (1,097) are the least desired. This trend mirrors the actual usage patterns and can be attributed to several factors. The demand for C remains high due to its critical role in system-level programming and performance-critical applications. Java's robust ecosystem and its strong presence in enterprise environments make it a preferred choice among developers. JavaScript continues to be highly sought after due to its indispensability in web development and the ongoing expansion of web technologies. Python's popularity is driven by its readability, ease of use, and powerful capabilities in emerging fields like data science, machine learning, and automation.</p>
 <p>On the other hand, Flow, APL, and Visual Basic are less desired due to their limited application scope, lack of modern use cases, and relatively smaller communities. Visual Basic, once popular for Windows application development, has seen a decline with the rise of more modern languages. APL, known for its niche in array processing, does not attract widespread interest due to its specialized nature. Flow, being a newer and less established language, has not yet garnered significant attention or adoption. These findings reflect the alignment between industry demands, the evolution of technology, and the preferences of the developer community in selecting programming languages for current and future projects.</p>
 
 #### Most Languages Wanted to Work With
 
-|  1  | C           | 54,823  | 
-|  2  | Java        | 35,891  | 
-|  3  | JavaScript  | 30,538  | 
-|  4  | Python      | 29,245  | 
-|  5  | SQL         | 26,772  | 
-|  6  | HTML/CSS    | 25,663  | 
-|  7  | C++         | 10,668  | 
-|  8  | Visual Basic| 1,097   | 
-|  9  | APL         | 277     | 
-|  10 | Flow        | 138     | 
+| First Header  | Second Header |
+| ------------- | ------------- |
+|   C           | 54,823  | 
+| Java        | 35,891  | 
+|  JavaScript  | 30,538  | 
+|  Python      | 29,245  | 
+|  SQL         | 26,772  | 
+|  HTML/CSS    | 25,663  | 
+|   C++         | 10,668  | 
+|   Visual Basic| 1,097   | 
+|   APL         | 277     | 
+|   Flow        | 138     | 
 
 
 ### Web Frames worked compared to the web Frame wanted to work with
@@ -44,13 +46,15 @@ The comparison between current usage and future interest highlights a few key tr
 
 #### Web frame Want To Work With                            #### Web frame Have Worked With         
 
-|  1  | React       | 21653   |                             |  1  | React       | 26150   |
-|  2  | Next.js     | 12273   |                             |  1  | ASP.NET     | 13417   |
-|  3  | ASP.NET     | 10397   |                             |  1  | ASP.NET CORE| 11341   |
-|  4  | ASP.NET CORE| 9561    |                             |  1  | Next.js     | 10483   |
-|  5  | Qwik        | 1852    |                             |  1  | Elm         | 516     |  
-|  6  | Elm         | 924     |                             |  1  | Lit         | 446     |
-|  7  | Lit         | 570     |                             |  1  | Qwik        | 323     |
+| First Header  | Second Header |                           | First Header  | Second Header |
+| ------------- | ------------- |                           | ------------- | ------------- |                         
+| React       | 21653   |                                   |  React       | 26150   |
+|  Next.js     | 12273   |                                  |  ASP.NET     | 13417   |
+|  ASP.NET     | 10397   |                                  |  ASP.NET CORE| 11341   |
+|   ASP.NET CORE| 9561    |                                 |   Next.js     | 10483   |
+|   Qwik        | 1852    |                                 |   Elm         | 516     |  
+|   Elm         | 924     |                                 |  Lit         | 446     |
+|   Lit         | 570     |                                 |  Qwik        | 323     |
 
  ### USA top ten Developer types and their salaries with only 1 year of experience
 - <p>The survey data on annual total compensation across various working areas in the USA reveals significant disparities. The highest compensation is received by back-end developers, with an average annual compensation of $400,000. This is likely due to the critical role they play in building and maintaining the server-side logic of applications, which is crucial for ensuring the performance and reliability of services.</p>
