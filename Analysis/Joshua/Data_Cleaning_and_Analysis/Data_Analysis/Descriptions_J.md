@@ -5,25 +5,15 @@ Several factors may contribute to these findings. The prominence of C can be att
 #### Most Languages Have Worked With
 
 |  1  | C           | 66,235  | 
-| ------ | :-----:  | :-----: | 
 |  2  | Java        | 55,727  | 
-| ------ | :-----:  | :-----: | 
 |  3  | JavaScript  | 48,991  | 
-| ------ | :-----:  | :-----: | 
 |  4  | HTML/CSS    | 39,916  | 
-| ------ | :-----:  | :-----: | 
 |  5  | SQL         | 39,804  | 
-| ------ | :-----:  | :-----: | 
 |  6  | Python      | 35,888  | 
-| ------ | :-----:  | :-----: | 
 |  7  | C++         | 15,304  | 
-| ------ | :-----:  | :-----: | 
 |  8  | Visual Basic| 3,157   | 
-| ------ | :-----:  | :-----: | 
 |  9  | Flow        | 194     | 
-| ------ | :-----:  | :-----: | 
 |  10 | APL         | 151     | 
-| ------ | :-----:  | :-----: | 
 
 - <p>The survey data indicates that the most desired programming languages to work with are C, Java, JavaScript, and Python, with respective interest counts of 54,823, 35,891, 30,538, and 29,245. Conversely, languages such as Flow (138), APL (277), and Visual Basic (1,097) are the least desired. This trend mirrors the actual usage patterns and can be attributed to several factors. The demand for C remains high due to its critical role in system-level programming and performance-critical applications. Java's robust ecosystem and its strong presence in enterprise environments make it a preferred choice among developers. JavaScript continues to be highly sought after due to its indispensability in web development and the ongoing expansion of web technologies. Python's popularity is driven by its readability, ease of use, and powerful capabilities in emerging fields like data science, machine learning, and automation.</p>
 <p>On the other hand, Flow, APL, and Visual Basic are less desired due to their limited application scope, lack of modern use cases, and relatively smaller communities. Visual Basic, once popular for Windows application development, has seen a decline with the rise of more modern languages. APL, known for its niche in array processing, does not attract widespread interest due to its specialized nature. Flow, being a newer and less established language, has not yet garnered significant attention or adoption. These findings reflect the alignment between industry demands, the evolution of technology, and the preferences of the developer community in selecting programming languages for current and future projects.</p>
@@ -31,25 +21,15 @@ Several factors may contribute to these findings. The prominence of C can be att
 #### Most Languages Wanted to Work With
 
 |  1  | C           | 54,823  | 
-| ------ | :-----:  | :-----: | 
 |  2  | Java        | 35,891  | 
-| ------ | :-----:  | :-----: | 
 |  3  | JavaScript  | 30,538  | 
-| ------ | :-----:  | :-----: | 
 |  4  | Python      | 29,245  | 
-| ------ | :-----:  | :-----: | 
 |  5  | SQL         | 26,772  | 
-| ------ | :-----:  | :-----: | 
 |  6  | HTML/CSS    | 25,663  | 
-| ------ | :-----:  | :-----: | 
 |  7  | C++         | 10,668  | 
-| ------ | :-----:  | :-----: | 
 |  8  | Visual Basic| 1,097   | 
-| ------ | :-----:  | :-----: | 
 |  9  | APL         | 277     | 
-| ------ | :-----:  | :-----: | 
 |  10 | Flow        | 138     | 
-| ------ | :-----:  | :-----: | 
 
 
 ### Web Frames worked compared to the web Frame wanted to work with
@@ -64,19 +44,12 @@ The comparison between current usage and future interest highlights a few key tr
 #### Web frame Want To Work With                            #### Web frame Have Worked With         
 
 |  1  | React       | 21653   |                             |  1  | React       | 26150   |
-| ------ | :-----:  | :-----: |                             | ------ | :-----:  | :-----: |
 |  2  | Next.js     | 12273   |                             |  1  | ASP.NET     | 13417   |
-| ------ | :-----:  | :-----: |                             | ------ | :-----:  | :-----: |
 |  3  | ASP.NET     | 10397   |                             |  1  | ASP.NET CORE| 11341   |
-| ------ | :-----:  | :-----: |                             | ------ | :-----:  | :-----: |
 |  4  | ASP.NET CORE| 9561    |                             |  1  | Next.js     | 10483   |
-| ------ | :-----:  | :-----: |                             | ------ | :-----:  | :-----: |
 |  5  | Qwik        | 1852    |                             |  1  | Elm         | 516     |  
-| ------ | :-----:  | :-----: |                             | ------ | :-----:  | :-----: |
 |  6  | Elm         | 924     |                             |  1  | Lit         | 446     |
-| ------ | :-----:  | :-----: |                             | ------ | :-----:  | :-----: |
 |  7  | Lit         | 570     |                             |  1  | Qwik        | 323     |
-| ------ | :-----:  | :-----: |                             | ------ | :-----:  | :-----: |
 
  ### USA top ten Developer types and their salaries with only 1 year of experience
 - <p>The survey data on annual total compensation across various working areas in the USA reveals significant disparities. The highest compensation is received by back-end developers, with an average annual compensation of $400,000. This is likely due to the critical role they play in building and maintaining the server-side logic of applications, which is crucial for ensuring the performance and reliability of services.</p>
@@ -92,7 +65,7 @@ The comparison between current usage and future interest highlights a few key tr
 | 2  | Data scientist or machine learning specialist  | 300,000 |
 | 3  | Hardware Engine                                | 250,000 |
 | 4  | Security professional                          | 250,000 |
-| 5  | Other working areas                  		  | 238,000 |
+| 5  | Other working areas                  		        | 238,000 |
 | 6  | Developer Experience                           | 230,000 |
 | 7  | Security professional                          | 225,000 |
 | 8  | Developer, desktop or enterprise applications  | 220,000 |
