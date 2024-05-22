@@ -5,10 +5,10 @@ Several factors may contribute to these findings. The prominence of C can be att
 #### Most Languages Have Worked With
 | First Header  | Second Header |
 | ------------- | ------------- |
-|  1  | C           | 66,235  | 
-|  2  | Java        | 55,727  | 
-|  3  | JavaScript  | 48,991  | 
-|  4  | HTML/CSS    | 39,916  | 
+|  C           | 66,235  | 
+| Java        | 55,727  | 
+| JavaScript  | 48,991  | 
+|  HTML/CSS    | 39,916  | 
 |  5  | SQL         | 39,804  | 
 |  6  | Python      | 35,888  | 
 |  7  | C++         | 15,304  | 
