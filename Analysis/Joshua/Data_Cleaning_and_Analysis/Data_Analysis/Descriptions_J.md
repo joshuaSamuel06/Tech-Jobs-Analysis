@@ -21,7 +21,7 @@ Several factors may contribute to these findings. The prominence of C can be att
 
 #### Most Languages Wanted to Work With
 
-| First Header  | Second Header |
+|               |               |
 | ------------- | ------------- |
 |   C           | 54,823  | 
 | Java        | 35,891  | 
