@@ -56,15 +56,25 @@ The comparison between current usage and future interest highlights a few key tr
 |   Elm         | 924     |                                 |  Lit         | 446     |
 |   Lit         | 570     |                                 |  Qwik        | 323     |
 
+Web Frameworks I Want To Work With | Usage
+---------------------------------- | -----
+React                             | 21,653
+Next.js                           | 12,273
+ASP.NET                           | 10,397
+ASP.NET Core                      | 9,561
+Qwik                              | 1,852
+Elm                               | 924
+Lit                               | 570
 
- Web Frameworks I Want To Work With	Usage
-React	21,653
-Next.js	12,273
-ASP.NET	10,397
-ASP.NET Core	9,561
-Qwik	1,852
-Elm	924
-Lit	570
+Web Frameworks I Have Worked With | Usage
+-------------------------------- | -----
+React                            | 26,150
+ASP.NET                          | 13,417
+ASP.NET Core                     | 11,341
+Next.js                          | 10,483
+Elm                              | 516
+Lit                              | 446
+Qwik                             | 323
 
 ### USA top ten Developer types and their salaries with only 1 year of experience
 - <p>The survey data on annual total compensation across various working areas in the USA reveals significant disparities. The highest compensation is received by back-end developers, with an average annual compensation of $400,000. This is likely due to the critical role they play in building and maintaining the server-side logic of applications, which is crucial for ensuring the performance and reliability of services.</p>
