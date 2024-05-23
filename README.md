@@ -5,7 +5,7 @@
 This project is a comprehensive project that explores various aspects of the tech industry and provides valuable insights into the ever-evolving world of technology. The project covers a wide range of topics, including popular tools and programming languages, global developer distribution, education levels, database environments, common frameworks and languages, high-paying skills, AI tool usage, remote work preferences, career paths, and the trust in AI tools. By examining survey data, analyzing market trends, and conducting interviews, the project aims to equip professionals, students, and industry enthusiasts with knowledge and confidence to navigate the dynamic tech landscape.
 
 ### Official dataset source
-You can find the official published results of the survey here: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
+You can find the official published results of the survey and dataset here: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
 
 ### Problem Statement:
 
