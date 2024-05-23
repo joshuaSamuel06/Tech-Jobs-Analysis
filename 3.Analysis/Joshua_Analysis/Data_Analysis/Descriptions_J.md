@@ -1,20 +1,7 @@
 ### Programming Languaes worked with compared to the prograaming languages want to work with
-- The survey reveals that C, Java, JavaScript, and Python are the most utilized programming languages, with usage counts of 54,823, 35,891, 30,538, and 29,245 respectively. In contrast, languages such as Visual Basic (1,097), APL (277), and Flow (138) are among the least used.
+The survey reveals that C, Java, JavaScript, and Python are the most utilized programming languages, with usage counts of 54,823, 35,891, 30,538, and 29,245 respectively. In contrast, languages such as Visual Basic (1,097), APL (277), and Flow (138) are among the least used.
 Several factors may contribute to these findings. The prominence of C can be attributed to its foundational role in system programming and its efficiency in resource-constrained environments. Java's widespread use in enterprise applications, coupled with its portability across platforms, ensures its continued popularity. JavaScript's essential role in web development makes it indispensable for front-end developers. Python's simplicity and versatility, particularly in data science, artificial intelligence, and academic research, bolster its usage. On the other hand, less popular languages like Visual Basic, APL, and Flow are either considered outdated, have niche applications, or lack the extensive community and industry support that bolsters the popularity of more commonly used languages. This disparity in usage highlights the influence of industry demands, community support, and the evolving nature of technology on programming language adoption.
 
-#### Most Languages Have Worked With
-|              |               |
-| ------------- | ------------- |
-|  C           | 66,235  | 
-| Java        | 55,727  | 
-| JavaScript  | 48,991  | 
-|  HTML/CSS    | 39,916  | 
-|  SQL         | 39,804  | 
-|   Python      | 35,888  | 
-|  C++         | 15,304  | 
-| Visual Basic| 3,157   | 
-| Flow        | 194     | 
-|  APL         | 151     | 
 #### Most Languages Have Worked With
 | Language      | Count         |
 | ------------- | ------------- |
@@ -33,20 +20,18 @@ Several factors may contribute to these findings. The prominence of C can be att
 <p>On the other hand, Flow, APL, and Visual Basic are less desired due to their limited application scope, lack of modern use cases, and relatively smaller communities. Visual Basic, once popular for Windows application development, has seen a decline with the rise of more modern languages. APL, known for its niche in array processing, does not attract widespread interest due to its specialized nature. Flow, being a newer and less established language, has not yet garnered significant attention or adoption. These findings reflect the alignment between industry demands, the evolution of technology, and the preferences of the developer community in selecting programming languages for current and future projects.</p>
 
 #### Most Languages Wanted to Work With
-
-|               |               |
-| ------------- | ------------- |
-|   C           | 54,823  | 
-| Java        | 35,891  | 
-|  JavaScript  | 30,538  | 
-|  Python      | 29,245  | 
-|  SQL         | 26,772  | 
-|  HTML/CSS    | 25,663  | 
-|   C++         | 10,668  | 
-|   Visual Basic| 1,097   | 
-|   APL         | 277     | 
-|   Flow        | 138     | 
-
+| Language       | Count         |
+| -------------  | ------------- |
+| C              | 54,823        |
+| Java           | 35,891        |
+| JavaScript     | 30,538        |
+| Python         | 29,245        |
+| SQL            | 26,772        |
+| HTML/CSS       | 25,663        |
+| C++            | 10,668        |
+| Visual Basic   | 1,097         |
+| APL            | 277           |
+| Flow           | 138           |
 
 ### Web Frames worked compared to the web Frame wanted to work with
 - <p>The survey data presents a clear picture of the current and desired usage of various web frameworks. React emerges as the most used web framework with 26,150 users, and it also tops the list of frameworks developers most want to work with, with 21,653 expressing interest. This can be attributed to React's robust ecosystem, extensive community support, and its flexibility in building dynamic user interfaces.
