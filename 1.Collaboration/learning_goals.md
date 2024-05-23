@@ -1,9 +1,6 @@
-# Learning Goals
 
-## Collective
-
-<br>
-## Individual
+## Learning Goals
+----
 
 ### Murtaza
 1. Foster a collaborative environment by actively participating in team discussions and leading group initiatives.
@@ -12,5 +9,5 @@
 4. Utilize statistical techniques to extract meaningful insights from data, enabling informed decision-making.
 5. Cultivate effective communication within the team by documenting analysis procedures and fostering transparent collaboration.
 
-<br>
 ### Zia
+
