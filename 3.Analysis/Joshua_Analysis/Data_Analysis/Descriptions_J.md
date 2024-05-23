@@ -15,6 +15,19 @@ Several factors may contribute to these findings. The prominence of C can be att
 | Visual Basic| 3,157   | 
 | Flow        | 194     | 
 |  APL         | 151     | 
+#### Most Languages Have Worked With
+| Language      | Count         |
+| ------------- | ------------- |
+| C             | 66,235        |
+| Java          | 55,727        |
+| JavaScript    | 48,991        |
+| HTML/CSS      | 39,916        |
+| SQL           | 39,804        |
+| Python        | 35,888        |
+| C++           | 15,304        |
+| Visual Basic  | 3,157         |
+| Flow          | 194           |
+| APL           | 151           |
 
 - <p>The survey data indicates that the most desired programming languages to work with are C, Java, JavaScript, and Python, with respective interest counts of 54,823, 35,891, 30,538, and 29,245. Conversely, languages such as Flow (138), APL (277), and Visual Basic (1,097) are the least desired. This trend mirrors the actual usage patterns and can be attributed to several factors. The demand for C remains high due to its critical role in system-level programming and performance-critical applications. Java's robust ecosystem and its strong presence in enterprise environments make it a preferred choice among developers. JavaScript continues to be highly sought after due to its indispensability in web development and the ongoing expansion of web technologies. Python's popularity is driven by its readability, ease of use, and powerful capabilities in emerging fields like data science, machine learning, and automation.</p>
 <p>On the other hand, Flow, APL, and Visual Basic are less desired due to their limited application scope, lack of modern use cases, and relatively smaller communities. Visual Basic, once popular for Windows application development, has seen a decline with the rise of more modern languages. APL, known for its niche in array processing, does not attract widespread interest due to its specialized nature. Flow, being a newer and less established language, has not yet garnered significant attention or adoption. These findings reflect the alignment between industry demands, the evolution of technology, and the preferences of the developer community in selecting programming languages for current and future projects.</p>
