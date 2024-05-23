@@ -56,7 +56,7 @@ The comparison between current usage and future interest highlights a few key tr
 |   Elm         | 924     |                                 |  Lit         | 446     |
 |   Lit         | 570     |                                 |  Qwik        | 323     |
 
-Web Frameworks I Want To Work With | Usage
+Web Frameworks I Want To Work With |
 ---------------------------------- | -----
 React                             | 21,653
 Next.js                           | 12,273
@@ -66,7 +66,7 @@ Qwik                              | 1,852
 Elm                               | 924
 Lit                               | 570
 
-Web Frameworks I Have Worked With | Usage
+Web Frameworks I Have Worked With 
 -------------------------------- | -----
 React                            | 26,150
 ASP.NET                          | 13,417
