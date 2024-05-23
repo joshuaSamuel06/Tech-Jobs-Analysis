@@ -1,7 +1,6 @@
 <br>
 <br>
-<br>
-<br>
+
 
 # Educational and AI Trends in the Tech Industry
 
@@ -39,7 +38,7 @@ The survey data on the highest level of formal education of individuals who star
 
 Overall, the data underscores the importance of higher education in programming roles, with a Bachelor's degree being the predominant level of education among programmers. However, the presence of individuals with various levels of formal education also reflects the diverse pathways through which one can enter the programming profession.
 
-<img src="6.png" alt="Alt text" width="750" height="500">
+<img src="Charts/6.png" alt="Alt text" width="750" height="500">
 
 
 <br>
@@ -59,7 +58,7 @@ These findings illustrate the varying levels of demand and utility for different
 
 Understanding these trends helps both current professionals and aspiring programmers prioritize their learning and development efforts to align with market needs, ensuring they remain competitive and capable of meeting industry demands. 
 
-<img src="7.png" alt="Alt text" width="575" height="500">
+<img src="Charts/7.png" alt="Alt text" width="575" height="500">
 
 <br>
 
@@ -89,7 +88,7 @@ In contrast, countries with minimal entries, such as Tajikistan and the Lao Peop
 
 These findings underscore the importance of strategic investments in education, infrastructure, and industry support to foster a thriving tech ecosystem capable of attracting and nurturing programming talent. 
 
-![Alt text](8.png)
+![Alt text](Charts/8.png)
 
 <br>
 
@@ -113,8 +112,8 @@ Looking ahead, the preferences for database environments indicate a continued re
 - **Specialized roles of Elasticsearch, DynamoDB, and Oracle**: Continue to secure their places in the ecosystem, catering to niche but critical areas of application development.
 
 These insights highlight the dynamic and diverse nature of database environment preferences among developers. 
-*[5]*
-![](5.png)
+
+![](Charts/5.png)
 <br>
 
 ## Programming Languages Worked With Compared to the Programming Languages Developers Want to Work With
@@ -146,7 +145,7 @@ On the other hand, less popular languages like Visual Basic, APL, and Flow are e
 
 The survey data indicates that the most desired programming languages to work with are C, Java, JavaScript, and Python, with respective interest counts of 54,823, 35,891, 30,538, and 29,245. Conversely, languages such as Flow (138), APL (277), and Visual Basic (1,097) are the least desired. This trend mirrors the actual usage patterns and can be attributed to several factors. The demand for C remains high due to its critical role in system-level programming and performance-critical applications. Java's robust ecosystem and its strong presence in enterprise environments make it a preferred choice among developers. JavaScript continues to be highly sought after due to its indispensability in web development and the ongoing expansion of web technologies. Python's popularity is driven by its readability, ease of use, and powerful capabilities in emerging fields like data science, machine learning, and automation.
 
-![Alt text](1.png)
+![Alt text](Charts/1.png)
 
 
 On the other hand, Flow, APL, and Visual Basic are less desired due to their limited application scope, lack of modern use cases, and relatively smaller communities. Visual Basic, once popular for Windows application development, has seen a decline with the rise of more modern languages. APL, known for its niche in array processing, does not attract widespread interest due to its specialized nature. Flow, being a newer and less established language, has not yet garnered significant attention or adoption. These findings reflect the alignment between industry demands, the evolution of technology, and the preferences of the developer community in selecting programming languages for current and future projects.
@@ -172,7 +171,7 @@ The survey data presents a clear picture of the current and desired usage of var
 *Next.js*, a framework built on top of React, is used by 10,483 developers and ranks second in desirability with 12,273 developers wanting to work with it. This reflects the growing trend towards server-side rendering and static site generation capabilities that Next.js offers, making it a popular choice for modern web development.
 On the other end of the spectrum, frameworks like *Elm, Lit, and Qwik* are the least used and desired. Elm, with 516 current users and 924 developers interested in working with it, appeals to a niche audience due to its focus on functional programming and guaranteed absence of runtime exceptions. Lit, with 446 current users and 570 wanting to use it, and Qwik, with 323 users and 1,852 expressing interest, are emerging frameworks. While they are not widely adopted yet, the interest in Qwik suggests a curiosity about its performance optimizations and innovative approach to modern web development.
 
- ![Alt text](2.png)
+ ![Alt text](Charts/2.png)
 
 
 The comparison between current usage and future interest highlights a few key trends: established frameworks like React and Next.js continue to dominate due to their versatility and strong community support. ASP.NET frameworks maintain a strong presence, driven by their enterprise-grade capabilities. Meanwhile, emerging frameworks are generating interest, pointing to a future where performance and innovation could redefine the web development landscape.
@@ -265,14 +264,14 @@ As age increases, the preference for in-person work grows significantly. The 25-
 For individuals aged 55-64, remote work becomes more favorable again, with 48% preferring it, while 35% prefer in-person and 17% prefer hybrid work. The trend peaks in the 65+ age group, where a substantial 82% prefer remote work, and only 13% and 5% prefer in-person and hybrid work, respectively. Among respondents who prefer not to disclose their age, there is an overwhelming preference for remote work at 96%, with negligible interest in hybrid or in-person options.
 These findings suggest that younger and older age groups lean more towards remote work, while the middle-aged groups show a stronger inclination towards in-person work. This variation could be influenced by different factors such as career stage, family responsibilities, health concerns, and lifestyle preferences.
 
-![Alt text](10.png)
+![Alt text](Charts/10.png)
 
 <br>
 
 ## Analyze Preference Variation based on different factors: Country 
 This chart does not provide any analysis; it only presents raw data or the information written in the description cannot be analyzed using this chart. Therefore, there is nothing to describe.
 
-![Alt text](11.png)
+![Alt text](Charts/11.png)
 
 <br>
 
@@ -284,7 +283,7 @@ The survey data comparing work preferences among developers across various indus
 When comparing these preferences, it is evident that the Information Services, IT, Software Development, or other Technology sector shows the highest overall flexibility, leading in both hybrid (47.9%) and remote (51.7%) work preferences while maintaining a significant share in in-person work (47.6%). This underscores the sector's adaptability and the nature of tech work, which is highly compatible with remote environments. Conversely, industries like Manufacturing, Transportation, or Supply Chain have a stronger inclination towards in-person work (11.3%), reflecting the necessity for physical presence in many of their roles. Financial Services exhibit a balanced approach, with notable shares in all three categories, indicating a diverse range of roles and adaptability to different work environments. Legal Services, Wholesale, and Oil & Gas consistently show low preferences for hybrid and remote work, suggesting these industries may face more significant challenges in shifting away from traditional in-person work setups.
 These findings highlight the varying degrees of flexibility and adaptability across industries regarding work preferences. The technology sector leads in embracing hybrid and remote work, while more traditional or physically demanding industries like Manufacturing and Legal Services show stronger preferences for in-person work.
 
-![Alt text](12.png)
+![Alt text](Charts/12.png)
 
 [12, ]
 <br>
@@ -292,7 +291,7 @@ These findings highlight the varying degrees of flexibility and adaptability acr
 ## Opinions on Participating in Professional Developer Series by Age Group.
 This visualization will show the opinions of respondents on participating in a professional developer series categorized by age groups. Each age group is represented on the x-axis, while the number of respondents is shown on the y-axis. The respondents' opinions are divided into two categories: "Yes" and "No," represented by bars of different colors. The height of each bar corresponds to the number of respondents within that age group who answered either "Yes" or "No" to participating in the professional developer series.
 
-![Alt text](18.png)
+![Alt text](Charts/18.png)
 
 <br>
 
@@ -301,7 +300,9 @@ The visualization depicts the distribution of respondents' ages who utilize AI-p
 
 The data reveals significant variations in usage across age groups. The 25-34 age group shows the highest engagement with 15,137 respondents, followed by the 18-22 group with 9,983 respondents. The 35-44 age group has a moderate usage level with 7,910 respondents. Younger respondents under 18 years old account for 2,188 users, indicating substantial interest even among the youngest group. Usage declines notably in older age groups, with 2,675 respondents aged 45-54, 840 aged 55-64, and just 207 respondents aged 65 and over. Those who prefer not to disclose their age constitute 101 respondents. This distribution highlights the strong adoption of AI-powered search tools among younger to middle-aged individuals, offering valuable insights into the target demographics for such technologies.
 
-![Alt text](17.png)
+![Alt text](Charts/17.png)
+![Alt text](Charts/19.png)
+![Alt text](Charts/20.png)
 <br>
 
 ## How favorable is your stance on using AI tools as part of your development workflow?
@@ -324,7 +325,7 @@ A smaller portion of the respondents, 8,936, are "Indifferent," indicating that 
 Only 1,506 respondents are "Unfavorable" and an even smaller group, 231, are "Very unfavorable," reflecting a minority who may have concerns about the implications of AI, such as job displacement, reliability issues, or ethical considerations. Lastly, 2,112 respondents are "Unsure," indicating a need for more information or experience before forming an opinion on the use of AI tools.
 Overall, the data highlights a predominantly positive outlook towards AI integration in development workflows, with a significant number of developers seeing the value and potential of these tools in enhancing their work processes. The small percentage of unfavorable responses suggests that while there are concerns, they are not widespread enough to hinder the overall acceptance of AI in the development community. 
 
-![Alt text](3.svg)
+![Alt text](Charts/3.svg)
 
 
 <br>
@@ -338,4 +339,4 @@ By analyzing the chart, we can gauge the extent of AI tool integration in the de
 Overall, the bar chart serves as a visual representation of the industry's current adoption of AI tools in development. It offers valuable insights into how individuals and organizations are utilizing AI, providing a glimpse into the level of AI tool usage across different development branches or categories.
 By quickly assessing the chart, we can gain a better understanding of the current utilization of AI tools and its impact on development practices within the industry. 
 
-![Alt text](4.svg)
+![Alt text](Charts/4.svg)
