@@ -1,9 +1,6 @@
 <br>
 
-
 # Educational and AI Trends in the Tech Industry
-
-<br>
 
 ## Introduction
 
@@ -20,7 +17,6 @@ The survey also provides insights into work preferences among developers, reveal
 Overall, this comprehensive analysis offers a detailed understanding of the educational and skill trends within the tech industry, equipping current and aspiring professionals with essential information to navigate and thrive in this dynamic field.
 ****
 <br>
-<br>
 
 ## Percentage of Entries in Programming Job with Highest Formal Education Level
 
@@ -35,7 +31,6 @@ The survey data on the highest level of formal education of individuals who star
 Overall, the data underscores the importance of higher education in programming roles, with a Bachelor's degree being the predominant level of education among programmers. However, the presence of individuals with various levels of formal education also reflects the diverse pathways through which one can enter the programming profession.
 
 <img src="Charts/6.png" alt="Alt text" width="750" height="500">
-
 
 <br>
 
@@ -108,7 +103,6 @@ Looking ahead, the preferences for database environments indicate a continued re
 - **Specialized roles of Elasticsearch, DynamoDB, and Oracle**: Continue to secure their places in the ecosystem, catering to niche but critical areas of application development.
 
 These insights highlight the dynamic and diverse nature of database environment preferences among developers. 
-
 ![](Charts/5.png)
 <br>
 
@@ -143,7 +137,6 @@ The survey data indicates that the most desired programming languages to work wi
 
 ![Alt text](Charts/1.png)
 
-
 On the other hand, Flow, APL, and Visual Basic are less desired due to their limited application scope, lack of modern use cases, and relatively smaller communities. Visual Basic, once popular for Windows application development, has seen a decline with the rise of more modern languages. APL, known for its niche in array processing, does not attract widespread interest due to its specialized nature. Flow, being a newer and less established language, has not yet garnered significant attention or adoption. These findings reflect the alignment between industry demands, the evolution of technology, and the preferences of the developer community in selecting programming languages for current and future projects.
 
 **Most Languages Wanted to Work With**
@@ -169,10 +162,8 @@ On the other end of the spectrum, frameworks like *Elm, Lit, and Qwik* are the l
 
  ![Alt text](Charts/2.png)
 
-
 The comparison between current usage and future interest highlights a few key trends: established frameworks like React and Next.js continue to dominate due to their versatility and strong community support. ASP.NET frameworks maintain a strong presence, driven by their enterprise-grade capabilities. Meanwhile, emerging frameworks are generating interest, pointing to a future where performance and innovation could redefine the web development landscape.
 <br>
-
 
 **Web Frameworks Wanted to Work With**
 
@@ -266,7 +257,6 @@ These findings suggest that younger and older age groups lean more towards remot
 
 ## Analyze Preference Variation based on different factors: Country 
 This chart does not provide any analysis; it only presents raw data or the information written in the description cannot be analyzed using this chart. Therefore, there is nothing to describe.
-
 ![Alt text](Charts/11.png)
 
 <br>
