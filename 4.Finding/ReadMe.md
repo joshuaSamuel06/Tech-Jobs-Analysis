@@ -1,4 +1,3 @@
-<br>
 
 # Educational and AI Trends in the Tech Industry
 
