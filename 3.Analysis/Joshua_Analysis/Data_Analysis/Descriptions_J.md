@@ -66,7 +66,7 @@ Qwik                              | 1,852
 Elm                               | 924
 Lit                               | 570
 
-Web Frameworks I Have Worked With 
+Web Frameworks I Have Worked With |
 -------------------------------- | -----
 React                            | 26,150
 ASP.NET                          | 13,417
