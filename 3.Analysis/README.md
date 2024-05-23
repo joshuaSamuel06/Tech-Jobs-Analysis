@@ -18,3 +18,5 @@ Given the extensive nature of the Stack Overflow Survey dataset, we structured o
 
 Each folder contains in-depth analyses conducted by our team, focusing on different aspects of the dataset. By dividing the analysis among team members, we aimed to distribute workload efficiently and ensure thorough coverage of the research questions.
 Within each analysis folder, you'll find detailed insights, visualizations, and interpretations aimed at addressing specific questions outlined in the main README file. This collaborative approach allowed us to leverage individual expertise while maintaining a cohesive framework for the project.
+
+**For detailed code implementations and further insights, refer to the Finding Folder.**
