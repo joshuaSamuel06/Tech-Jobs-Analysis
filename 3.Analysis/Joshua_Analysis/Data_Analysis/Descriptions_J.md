@@ -44,18 +44,6 @@ ASP.NET and its modern variant, ASP.NET Core, also feature prominently. ASP.NET 
  
 The comparison between current usage and future interest highlights a few key trends: established frameworks like React and Next.js continue to dominate due to their versatility and strong community support. ASP.NET frameworks maintain a strong presence, driven by their enterprise-grade capabilities. Meanwhile, emerging frameworks are generating interest, pointing to a future where performance and innovation could redefine the web development landscape.
 
-#### Web frame Want To Work With                            #### Web frame Have Worked With         
-
-| First Header  | Second Header |                           | First Header  | Second Header |
-| ------------- | ------------- |                           | ------------- | ------------- |                         
-| React       | 21653   |                                   |  React       | 26150   |
-|  Next.js     | 12273   |                                  |  ASP.NET     | 13417   |
-|  ASP.NET     | 10397   |                                  |  ASP.NET CORE| 11341   |
-|   ASP.NET CORE| 9561    |                                 |   Next.js     | 10483   |
-|   Qwik        | 1852    |                                 |   Elm         | 516     |  
-|   Elm         | 924     |                                 |  Lit         | 446     |
-|   Lit         | 570     |                                 |  Qwik        | 323     |
-
 Web Frameworks I Want To Work With | Usage
 ---------------------------------- | -----
 React                             | 21,653
