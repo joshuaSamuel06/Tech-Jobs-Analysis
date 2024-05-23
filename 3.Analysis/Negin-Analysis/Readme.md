@@ -1,1 +1,29 @@
+## Data-Cleaning
 
+### Official dataset source
+You can find the official published results of the survey here: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/)
+
+### Data Cleaning Process
+In the `Data-Cleaning` folder, we cleaned the original dataset, `survey.csv`. The primary goal was to reorganize the dataset for readability, remove irrelevant columns, and handle missing data. Below are the detailed steps taken during this iteration:
+
+#### Dropping Irrelevant Columns
+After a thorough review, we identified and dropped columns that were not pertinent to our analysis or contained excessive missing data. The columns removed were: `Q120`, `CodingActivities`, `LearnCodeCoursesCert`, `YearsCode`, `YearsCodePro`, `TechList`, `BuyNewTool`, `LanguageHaveWorkedWith`, `LanguageWantToWorkWith`, `DatabaseHaveWorkedWith`, `DatabaseWantToWorkWith`, `PlatformHaveWorkedWith`, `PlatformWantToWorkWith`, `WebframeHaveWorkedWith`, `WebframeWantToWorkWith`, `MiscTechHaveWorkedWith`, `MiscTechWantToWorkWith`, `ToolsTechHaveWorkedWith`, `ToolsTechWantToWorkWith`, `NEWCollabToolsHaveWorkedWith`, `NEWCollabToolsWantToWorkWith`, `OpSysPersonal use`, `OpSysProfessional use`, `OfficeStackAsyncHaveWorkedWith`, `OfficeStackAsyncWantToWorkWith`, `OfficeStackSyncHaveWorkedWith`, `OfficeStackSyncWantToWorkWith`, `NEWSOSites`, `SOVisitFreq`, `SOAccount`, `SOPartFreq`, `SOComm`, `AIToolInterested in Using`, `AIToolCurrently Using`, `AIToolNot interested in Using`, `AINextVery different`, `AINextNeither different nor similar`, `AINextSomewhat similar`, `AINextVery similar`, `AINextSomewhat different`, `ICorPM`, `Knowledge_1`, `Knowledge_2`, `Knowledge_3`, `Knowledge_4`, `Knowledge_5`, `Knowledge_6`, `Knowledge_7`, `Knowledge_8`, `Frequency_1`, `Frequency_2`, `Frequency_3`, `TimeSearching`, `TimeAnswering`, `ProfessionalTech`, `SurveyLength`, `SurveyEase`, `ConvertedCompYearly`, `Currency`, `ResponseId`.
+
+#### Reordering the Final Columns Used for Data Analysis for Readability
+We defined a new order for the remaining columns to improve dataset readability and logical flow:
+```python
+new_order = ['MainBranch', 'Age', 'Employment', 'RemoteWork', 'Industry', 'Country', 'CompTotal',
+             'EdLevel', 'OrgSize', 'WorkExp', 'DevType', 'TBranch', 'LearnCode', 'LearnCodeOnline', 
+             'PurchaseInfluence', 'AISearchHaveWorkedWith', 'AISearchWantToWorkWith',
+             'AIDevHaveWorkedWith', 'AIDevWantToWorkWith', 'AISelect', 'AISent', 'AIAcc', 'AIBen']
+
+The resulting file, `df_final.csv`, is now prepared for subsequent analysis and is located in the `Data_Cleaning` folder inside the survey.zip.
+
+
+**#### Files in the Archive**
+
+- **df_final.csv**: This is the final cleaned dataset after the data preprocessing steps described above. It includes the relevant columns reorganized for readability.
+- **README_2023.txt**: This file contains a detailed explanation of the data cleaning process and descriptions of the files in this archive.
+- **so_survey_2023.pdf**: This PDF contains the survey instrument with all the questions asked in the 2023 Stack Overflow Developer Survey.
+- **survey.csv**: This is the original dataset obtained from Stack Overflow before any cleaning or preprocessing.
+- **survey_results_schema.csv**: This file provides the schema for the survey results, detailing the questions corresponding to each column name in the dataset.
