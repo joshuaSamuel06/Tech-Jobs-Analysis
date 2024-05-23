@@ -56,7 +56,17 @@ The comparison between current usage and future interest highlights a few key tr
 |   Elm         | 924     |                                 |  Lit         | 446     |
 |   Lit         | 570     |                                 |  Qwik        | 323     |
 
- ### USA top ten Developer types and their salaries with only 1 year of experience
+
+ Web Frameworks I Want To Work With	Usage
+React	21,653
+Next.js	12,273
+ASP.NET	10,397
+ASP.NET Core	9,561
+Qwik	1,852
+Elm	924
+Lit	570
+
+### USA top ten Developer types and their salaries with only 1 year of experience
 - <p>The survey data on annual total compensation across various working areas in the USA reveals significant disparities. The highest compensation is received by back-end developers, with an average annual compensation of $400,000. This is likely due to the critical role they play in building and maintaining the server-side logic of applications, which is crucial for ensuring the performance and reliability of services.</p>
 <p>Data scientists or machine learning specialists are next, with a total compensation of $300,000. This high compensation reflects the increasing demand for expertise in AI and data analytics, as these professionals drive innovation and provide valuable insights across industries.</p>
 <p>Hardware engineers and security professionals each receive $250,000 annually. Hardware engineers are essential for developing and improving the physical components of technology, while security professionals are critical for protecting systems and data, a role that has gained heightened importance due to the rise in cyber threats.</p>
