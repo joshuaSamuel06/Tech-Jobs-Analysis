@@ -16,14 +16,17 @@ new_order = ['MainBranch', 'Age', 'Employment', 'RemoteWork', 'Industry', 'Count
              'EdLevel', 'OrgSize', 'WorkExp', 'DevType', 'TBranch', 'LearnCode', 'LearnCodeOnline', 
              'PurchaseInfluence', 'AISearchHaveWorkedWith', 'AISearchWantToWorkWith',
              'AIDevHaveWorkedWith', 'AIDevWantToWorkWith', 'AISelect', 'AISent', 'AIAcc', 'AIBen']
+```
+The resulting file, `df_final.csv`, is now prepared for subsequent analysis and is located in the `Data_Cleaning` folder inside the **survey.zip**.
 
-The resulting file, `df_final.csv`, is now prepared for subsequent analysis and is located in the `Data_Cleaning` folder inside the survey.zip.
 
-
-**#### Files in the Archive**
+#### Files in the survey Archive
 
 - **df_final.csv**: This is the final cleaned dataset after the data preprocessing steps described above. It includes the relevant columns reorganized for readability.
-- **README_2023.txt**: This file contains a detailed explanation of the data cleaning process and descriptions of the files in this archive.
+- **README_2023.txt**: This file contains a detailed explanation and descriptions of the datasets files from stackoverflow.
 - **so_survey_2023.pdf**: This PDF contains the survey instrument with all the questions asked in the 2023 Stack Overflow Developer Survey.
 - **survey.csv**: This is the original dataset obtained from Stack Overflow before any cleaning or preprocessing.
 - **survey_results_schema.csv**: This file provides the schema for the survey results, detailing the questions corresponding to each column name in the dataset.
+
+
+## Data_Analysis
