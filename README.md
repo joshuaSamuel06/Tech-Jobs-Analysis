@@ -9,15 +9,15 @@ Our project analyzes data from Stack Overflow's 2023 survey to visualize tech in
 The tech industry is evolving rapidly, often leaving newcomers uncertain about which skills and programming languages to learn to stay current in the market. The rise of AI has added to these uncertainties, prompting many questions for those entering the field. Many wish they had a group of experienced tech professionals to consult for guidance.
 
 ### Official dataset source
-You can find the official published results of the survey and dataset here: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
+Link to the official survey and Dataset: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
 
 
 
 ### Research questions:
 
-1. What are the most used tools in the tech industry, and which frameworks, languages, and tools are commonly used by developers?
-2. In which top 5 countries do most developers who answered the survey reside, and how does remote work preference vary across different age groups, countries, and industries among developers?
-3. What education level do most developers have, which programming, scripting, and markup languages are commonly used in program development, and how does annual compensation vary with different levels of work experience and the choice of tools/languages?
+1. Which tools, frameworks, and programming languages are most prevalent in the tech industry?
+2. Which roles in the tech industry offer the highest salaries?
+3. What are current tech professionals' opinions on the newly introduced AI tools in the market?
 
 ### Objective:
 
