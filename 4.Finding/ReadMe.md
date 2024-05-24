@@ -269,7 +269,8 @@ When comparing these preferences, it is evident that the Information Services, I
 These findings highlight the varying degrees of flexibility and adaptability across industries regarding work preferences. The technology sector leads in embracing hybrid and remote work, while more traditional or physically demanding industries like Manufacturing and Legal Services show stronger preferences for in-person work.
 
 ![Alt text](Charts/12.png)
-
+![Alt text](Charts/19.png)
+![Alt text](Charts/20.png)
 [12, ]
 <br>
 
@@ -290,6 +291,7 @@ The data reveals significant variations in usage across age groups. The 25-34 ag
 ![Alt text](Charts/19.png)
 
 ![Alt text](Charts/20.png)
+
 <br>
 
 ## How favorable is your stance on using AI tools as part of your development workflow?
