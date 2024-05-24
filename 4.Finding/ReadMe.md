@@ -271,7 +271,7 @@ These findings highlight the varying degrees of flexibility and adaptability acr
 ![Alt text](Charts/12.png)
 ![Alt text](Charts/19.png)
 ![Alt text](Charts/20.png)
-[12, ]
+
 <br>
 
 ## Opinions on Participating in Professional Developer Series by Age Group.
@@ -287,10 +287,6 @@ The visualization depicts the distribution of respondents' ages who utilize AI-p
 The data reveals significant variations in usage across age groups. The 25-34 age group shows the highest engagement with 15,137 respondents, followed by the 18-22 group with 9,983 respondents. The 35-44 age group has a moderate usage level with 7,910 respondents. Younger respondents under 18 years old account for 2,188 users, indicating substantial interest even among the youngest group. Usage declines notably in older age groups, with 2,675 respondents aged 45-54, 840 aged 55-64, and just 207 respondents aged 65 and over. Those who prefer not to disclose their age constitute 101 respondents. This distribution highlights the strong adoption of AI-powered search tools among younger to middle-aged individuals, offering valuable insights into the target demographics for such technologies.
 
 ![Alt text](Charts/17.png)
-
-![Alt text](Charts/19.png)
-
-![Alt text](Charts/20.png)
 
 <br>
 
