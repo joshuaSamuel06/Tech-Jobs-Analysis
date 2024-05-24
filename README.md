@@ -8,10 +8,6 @@ Our project analyzes data from Stack Overflow's 2023 survey to visualize tech in
 ### Problem Statement
 The tech industry is evolving rapidly, often leaving newcomers uncertain about which skills and programming languages to learn to stay current in the market. The rise of AI has added to these uncertainties, prompting many questions for those entering the field. Many wish they had a group of experienced tech professionals to consult for guidance.
 
-### Official dataset source
-Link to the official survey and Dataset: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
-
-
 
 ### Research questions:
 
@@ -25,6 +21,7 @@ Our project aims to conduct a deep exploratory analysis of the data from Stack O
 
 ### Data Source
 
+Link to the official survey and Dataset: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
 
 ### Data Cleaning
 
