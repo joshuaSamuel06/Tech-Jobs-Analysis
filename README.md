@@ -2,10 +2,11 @@
 ## Tech Trends:Unveiling the Developer Landscape
 ### Overview
 
-This project is a comprehensive project that explores various aspects of the tech industry and provides valuable insights into the ever-evolving world of technology. The project covers a wide range of topics, including popular tools and programming languages, global developer distribution, education levels, database environments, common frameworks and languages, high-paying skills, AI tool usage, remote work preferences, career paths, and the trust in AI tools. By examining survey data, analyzing market trends, and conducting interviews, the project aims to equip professionals, students, and industry enthusiasts with knowledge and confidence to navigate the dynamic tech landscape.
+The tech industry is evolving rapidly, often leaving newcomers uncertain about which skills and programming languages to learn to stay current in the market. The rise of AI has added to these uncertainties, prompting many questions for those entering the field. Many wish they had a group of experienced tech professionals to consult for guidance. Our project aims to conduct a deep exploratory analysis of the data from Stack Overflow's 2023 survey. We will provide visual representations of this data to help both prospective and current tech industry professionals understand market trends and needs.
 
 ### Official dataset source
 You can find the official published results of the survey and dataset here: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
+
 
 ### Problem Statement:
 
