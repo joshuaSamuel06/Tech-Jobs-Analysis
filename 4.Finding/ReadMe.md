@@ -192,11 +192,10 @@ The comparison between current usage and future interest highlights a few key tr
 <br>
 
 ## USA top ten Developer types and their salaries with only 1 year of experience
-The survey data on annual total compensation across various working areas in the USA reveals significant disparities. The highest compensation is received by back-end developers, with an average annual compensation of $400,000. This is likely due to the critical role they play in building and maintaining the server-side logic of applications, which is crucial for ensuring the performance and reliability of services.
-Data scientists or machine learning specialists are next, with a total compensation of $300,000. This high compensation reflects the increasing demand for expertise in AI and data analytics, as these professionals drive innovation and provide valuable insights across industries.
+The survey data on annual total compensation across various tech roles in the USA highlights why the tech industry is considered one of the highest-paying industries. Out of all the people who attended the survey, the highest compensation is received by a back-end developer, with an  annual compensation of $400,000. This is likely due to the critical role they play in building and maintaining the server-side logic of applications, which is crucial for ensuring the performance and reliability of services.
+Data scientist/Machine learning specialist stood second on the list, with a total compensation of $300,000. This high compensation reflects the increasing demand for expertise in AI and data analytics, as these professionals drive innovation and provide valuable insights across industries.
 Hardware engineers and security professionals each receive $250,000 annually. Hardware engineers are essential for developing and improving the physical components of technology, while security professionals are critical for protecting systems and data, a role that has gained heightened importance due to the rise in cyber threats.
-Other roles such as Developer Experience ($230,000), Developer for desktop or enterprise applications ($220,000), and full-stack developers ($206,000) also command substantial salaries. The Developer Experience role, which focuses on improving the workflow and tools for developers, highlights the value placed on productivity and efficiency in software development processes.
-Interestingly, the 'Other' category, which encompasses various unspecified roles, shows an average compensation of $238,000, indicating that specialized or less common roles can also attract high salaries.
+Other roles such as Developer Experience ($230,000), Developer for desktop or enterprise applications ($220,000), and full-stack developers ($206,000) are also amongst the top salaried roles . The Developer Experience role, which focuses on improving the workflow and tools for developers, highlights the value placed on productivity and efficiency in software development processes.
 This data underscores the varying levels of compensation tied to different specialties within the tech industry, reflecting market demand, the complexity of the roles, and the critical nature of the skills required. The high compensation for back-end developers, data scientists, and security professionals highlights their pivotal role in the current technological landscape.
 
 **Top Ten Highest Salaries (USD)**
@@ -215,8 +214,8 @@ This data underscores the varying levels of compensation tied to different speci
 | 10   | Developer, full-stack                        | 206,000                  |
 <br>
 
-## USA top ten Developer types and their salaries with only 1 year of experience
-The survey data on average annual salaries for various tech roles in the USA provides insightful details on compensation across different specializations. The role of Developer Experience tops the list with an average salary of $230,000, reflecting the high value placed on optimizing developer workflows and tools, which are crucial for enhancing productivity and efficiency in software development.
+
+Further exploratory analysis of the data reveals the tech roles that, on average, earn the highest salaries.. The role of Developer Experience tops the list with an average salary of $230,000, reflecting the high value placed on optimizing developer workflows and tools, which are crucial for enhancing productivity and efficiency in software development.
 Security professionals follow, with an average salary of $188,666.67. This underscores the significant emphasis on cybersecurity, as protecting data and systems from breaches has become paramount in an increasingly digital world.
 Developers specializing in game or graphics development earn an average of $155,000 annually. This high salary highlights the niche skills required in the gaming and graphics industry, which demand creativity and technical expertise.
 Hardware engineers and cloud infrastructure engineers have average salaries of $137,800 and $137,645, respectively. Hardware engineers are vital for designing and developing physical computing components, while cloud infrastructure engineers ensure the reliability and scalability of cloud services, both essential roles in the tech ecosystem.
@@ -225,6 +224,7 @@ Back-end developers have an average salary of $116,746.15, indicating the import
 Research & Development roles and data engineers earn average salaries of $114,666.67 and $113,333.33, respectively. These roles are critical for advancing technological capabilities and handling large datasets, driving progress and efficiency.
 The 'Other' category, with an average salary of $109,048.18, likely includes various specialized roles that do not fit into the standard categories but still require significant expertise and contribute to the tech industry.
 This data illustrates the diverse compensation landscape within the tech industry, emphasizing the value of specialized skills and the critical nature of various roles. The high salaries in roles like Developer Experience, security, and data science reflect the industry's prioritization of productivity, security, and data-driven decision-making.
+
 
 **Top Ten Average Salaries (USD)**
 | Rank | Developer Type                              | Average Salary |
