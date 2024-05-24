@@ -23,7 +23,19 @@ Our project aims to conduct a deep exploratory analysis of the data from Stack O
 
 Link to the official survey and Dataset: [2023 Stack Overflow Survey Results](https://survey.stackoverflow.co/) 
 
+### Data Collection
+
+### Non-Technical Explanation of Domain Modeling
+- **Approach:** Our data modeling approach involves incorporating a multidimensional analysis of migration patterns in post-conflict regions. We consider key factors such as socio-economic conditions, conflict dynamics, and demographic shifts. The choice is influenced by insights from domain experts, emphasizing both quantitative and qualitative data to capture the complexity of migration.
+
+- **Possible Flaws:** While our approach is comprehensive, potential flaws may include challenges in quantifying certain qualitative aspects. Additionally, biases in available data sources could impact the accuracy of our models, given that we could only find the dataset limited to Europe as a destination continent.
+
+
+
 ### Data Cleaning
+During the data cleaning phase, we created three distinct processed datasets from the original data to meet the requirements of our analysis, focusing on different variables. The original dataset, derived from a survey, contained many null values due to optional questions. To address this, we developed three separate datasets, each without null values for the key variables
+- **Data Set Cleaning:** [Link to Data Set](Data_cleaning)
+- **Description:** This folder contains the files that includes the original MIMI dataset, cleaned versions, and additional data on countries of interest. The structure is documented in the cleaning.ipynb file, outlining the transformation process. Possible flaws, such as missing or incomplete data, are acknowledged.
 
 
 ### Our Findings
