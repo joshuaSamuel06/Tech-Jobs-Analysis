@@ -326,4 +326,4 @@ By analyzing the chart, we can gauge the extent of AI tool integration in the de
 Overall, the bar chart serves as a visual representation of the industry's current adoption of AI tools in development. It offers valuable insights into how individuals and organizations are utilizing AI, providing a glimpse into the level of AI tool usage across different development branches or categories.
 By quickly assessing the chart, we can gain a better understanding of the current utilization of AI tools and its impact on development practices within the industry. 
 
-![Alt text](Charts/4.svg)
+![Alt text](Charts/4.png)
