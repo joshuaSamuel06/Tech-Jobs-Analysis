@@ -277,7 +277,6 @@ The bar chart also reflects similar ratios among other groups, such as those lea
 
 ![Alt text](Charts/4.png)
 
-## AI Tools usage w.r.t Age
 
 Interestingly, the largest proportion of individuals currently utilizing AI in development falls within the 25-34 age bracket, indicating a trend towards increased adoption among younger demographics. Conversely, there is notably less usage observed among older age groups. This visualization suggests a shifting landscape where AI technology is progressively integrated across all age demographics, signifying its growing significance in the future
 
