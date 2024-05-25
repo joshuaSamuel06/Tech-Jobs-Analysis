@@ -265,6 +265,7 @@ These findings highlight the varying degrees of flexibility and adaptability acr
 
 
 <br>
+
 ### AI and Tech Industry
 The advancement of AI and its tools has significantly streamlined workflows, benefiting users by making their tasks easier. However, it has also raised concerns about job security and created uncertainty about the appropriateness of using AI tools in professional settings. This data provides insights into these concerns by showcasing the general consensus on these issues, helping to answer some of the pressing questions and clear up confusion.
 
@@ -273,25 +274,18 @@ The advancement of AI and its tools has significantly streamlined workflows, ben
 In response to the question, "Do you currently use AI tools in your development process?" The majority of professional developers answered yes (28.453k), while others said no but they plan to (16.98k), indicating a positive trend towards AI usage. However, a notable number of developers stated they do not use AI tools in their development process and have no plans to do so (19.538k). This insight suggests that while some developers appreciate the ease of work AI offers, others might see it as a hindrance to their learning process. 
 The bar chart also reflects similar ratios among other groups, such as those learning to code, former developers, and hobbyists, providing a comprehensive view of attitudes towards AI in the tech community.
 
-Furthermore, the pie chart illustrates opinions on whether using AI in the development process is favorable. A large majority, 48.3%, believe it is favorable, while 27.9% think it is very favorable. On the other hand, out of the total 23.8%, most think its indifferent, with some finding it unfavorable or are uncertain about its impact.
+
 ![Alt text](Charts/4.png)
 
-## How favorable is your stance on using AI tools as part of your development workflow?
-The survey data regarding the stance on using AI tools in the development workflow reveals a generally positive attitude among developers. The responses are distributed as follows:
+Among those currently using AI in development, the majority are in the 25-34 age group, with less usage observed in older age groups.
 
-The majority of respondents are in favor of integrating AI tools into their workflow, with 25,966 expressing a "Favorable" stance and 15,001 indicating a "Very favorable" stance. This significant support suggests that many developers recognize the potential benefits of AI, such as increased efficiency, automation of repetitive tasks, and enhanced decision-making capabilities.
-A smaller portion of the respondents, 8,936, are "Indifferent," indicating that while they may not oppose the use of AI tools, they do not have strong opinions on their adoption. This neutrality might stem from a lack of experience with AI tools or uncertainty about their impact.
-Only 1,506 respondents are "Unfavorable" and an even smaller group, 231, are "Very unfavorable," reflecting a minority who may have concerns about the implications of AI, such as job displacement, reliability issues, or ethical considerations. Lastly, 2,112 respondents are "Unsure," indicating a need for more information or experience before forming an opinion on the use of AI tools.
-Overall, the data highlights a predominantly positive outlook towards AI integration in development workflows, with a significant number of developers seeing the value and potential of these tools in enhancing their work processes. The small percentage of unfavorable responses suggests that while there are concerns, they are not widespread enough to hinder the overall acceptance of AI in the development community. 
+![Alt text](Charts/17.png)
+
+Furthermore, the pie chart illustrates opinions on whether using AI in the development process is favorable or not. A large majority, 48.3%, believe it is favorable, while 27.9% think it is very favorable. On the other hand, out of the remaining 23.8%, most think it is indifferent, with some finding it unfavorable or being uncertain about its impact.
 
 ![Alt text](Charts/3.svg)
 
-## Usage of AI-powered Search Tools Across Age Demographics
-The visualization depicts the distribution of respondents' ages who utilize AI-powered search tools. The x-axis categorizes different age groups, from "Under 18 years old" to "Prefer not to say," while the y-axis quantifies the number of respondents in each category. Each bar in the chart represents a specific age group, with its height corresponding to the number of respondents. Additionally, the exact count of respondents is displayed above each bar for clarity.
 
-The data reveals significant variations in usage across age groups. The 25-34 age group shows the highest engagement with 15,137 respondents, followed by the 18-22 group with 9,983 respondents. The 35-44 age group has a moderate usage level with 7,910 respondents. Younger respondents under 18 years old account for 2,188 users, indicating substantial interest even among the youngest group. Usage declines notably in older age groups, with 2,675 respondents aged 45-54, 840 aged 55-64, and just 207 respondents aged 65 and over. Those who prefer not to disclose their age constitute 101 respondents. This distribution highlights the strong adoption of AI-powered search tools among younger to middle-aged individuals, offering valuable insights into the target demographics for such technologies.
-
-![Alt text](Charts/17.png)
 
 
 
