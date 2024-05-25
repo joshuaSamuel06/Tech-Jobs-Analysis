@@ -354,50 +354,52 @@ Acording to the image, here's a customized interpretation of the trust levels in
 **Group 1: High Trust**: Countries in this group have a significant portion of responses in the 'Highly trust' category, with long bars extending towards this end. These countries exhibit a strong confidence in the accuracy of AI, suggesting positive public opinion and possibly good experiences with AI technologies.
 - *Finland*
 - *Singapore*
-- *India*
-- *Vietnam*
-- *China*
 
 **Group 2: Moderate Trust**: This group includes countries with a majority of responses in the 'Somewhat trust' category. The trust levels are positive but not as strong as in Group 1, indicating a cautiously optimistic view of AI among the public.
 - *Netherlands*
-- *Indonesia*
+- *Nigeria*
+- *Portugal*
 - *United Arab Emirates*
-- *Sweden*
-- *Malaysia*
-- *Thailand*
 - *Philippines*
+- *Indonesia*
+- *India*
 - *South Korea*
 - *Kenya*
-- *Mexico*
+- *Brazil*
 
 **Group 3: Neutral / Mixed Feelings**: Countries here have their longest bars around the 'Neutral/Do not know' point. This suggests a lack of strong opinions towards AI accuracy, which could be due to a lack of exposure or understanding of AI technologies.
 - *Germany*
-- *United Kingdom*
 - *United States*
-- *Japan*
-- *Brazil*
-- *France*
-- *Italy*
+- *United Kingdom*
 - *Spain*
+- *South Africa*
 - *Australia*
 - *Canada*
-- *Russia*
-- *South Africa*
+- *France*
+- *Italy*
 - *Poland*
-- *Nigeria*
+- *Russia*
+- *Turkey*
+- *Japan*
+- *Mexico*
+- *Argentina*
 
 **Group 4: Low Trust**: The final group consists of countries with the majority of responses in the 'Somewhat distrust' and 'Highly distrust' categories. These countries show skepticism towards AI accuracy, which could stem from negative experiences, lack of information, or cultural attitudes towards technology.
 - *Iran*
 - *Egypt*
-- *Turkey*
-- *Greece*
 - *Iraq*
 - *Pakistan*
 - *Bangladesh*
 - *Sudan*
 - *Venezuela*
-- *Argentina*
+- *Greece*
 - *Colombia*
+- *Afghanistan*
+- *Syria*
+- *North Korea*
+- *Libya*
+- *Haiti*
+- *Central African Republic*
 
 ![Trust in AI Tool Accuracy by Country](Charts/16.png)
 The grouped box plot aids in exploring variations in trust levels among different regions, guiding policymakers, researchers, and industry professionals in understanding the factors influencing trust in AI tools and devising strategies to address concerns or capitalize on positive perceptions.
