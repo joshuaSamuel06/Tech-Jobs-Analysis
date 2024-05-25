@@ -37,8 +37,8 @@ During the data cleaning phase, we created three distinct processed datasets fro
 
 To manage the extensive Stack Overflow Survey dataset effectively, we organized our analysis into three distinct folders, each reflecting the contributions of a specific analyst:
 
-- **Joshua_Analysis**: [Data cleaning](/3.Analysis/Joshua_Analysis)
-- **Negin_Analysis**: [Data cleaning](/3.Analysis/Negin-Analysis/Data-Cleaning) 
+- **First Data Cleaning**: [Data cleaning](/3.Analysis/Analysis_1)
+- **Second Data Cleaning**: [Data cleaning](/3.Analysis/Analysis_3/Data-Cleaning) 
 
 **Description:** Each folder contains comprehensive data cleaning performed by our team members, focusing on various aspects of the dataset. 
 
