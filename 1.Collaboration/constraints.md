@@ -1,32 +1,36 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
-
 # Constraints
 
 Some boundaries around our project.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
--->
+- **Project Deadline:** Completion required on time.
+- **Test Coverage:** Each feature must achieve at least 90% test coverage.
+- **Technologies:** Mandatory use of Ptython and vscode for better understandting of all member.
 
-## Internal: Involuntary
+**Individual Skill Levels:**
+1. **Joshua Samuel:**
+   - Proficient in Python and Java programming.
+   - Experienced in UI testing (Manual and Automated).
+   - Basic front-end skills (HTML, CSS).
+   - 
+2. **Negin Ahmadi:**
+     - Proficient in Python programming.
+     - Basic front-end skills (HTML, CSS).
+     - knowledge of database-related tasks
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+**Amount of Time Available:**
+- Each team member can dedicate an average of 4 hours per day.
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+**Internal Voluntary Constraints:**
+- **Coding Style & Conventions:**
+   - Adherence to [Markdown] for consistency.
+
+- **Code Review Checklist:**
+   - Establish a project-specific code review checklist.
+   - Ensure all code aligns with established coding standards.
+   - Include comprehensive comments and documentation.
+   - Conduct thorough reviews for potential security vulnerabilities.
+   - Address and resolve identified issues before merging.
