@@ -215,7 +215,7 @@ This data underscores the varying levels of compensation tied to different speci
 <br>
 
 
-Further exploratory analysis of the data reveals the tech roles that, on average, earn the highest salaries.. The role of Developer Experience tops the list with an average salary of $230,000, reflecting the high value placed on optimizing developer workflows and tools, which are crucial for enhancing productivity and efficiency in software development.
+Further exploratory analysis of the data reveals the tech roles that, on average, earn the highest salaries. The role of Developer Experience tops the list with an average salary of $230,000, reflecting the high value placed on optimizing developer workflows and tools, which are crucial for enhancing productivity and efficiency in software development.
 Security professionals follow, with an average salary of $188,666.67. This underscores the significant emphasis on cybersecurity, as protecting data and systems from breaches has become paramount in an increasingly digital world.
 Developers specializing in game or graphics development earn an average of $155,000 annually. This high salary highlights the niche skills required in the gaming and graphics industry, which demand creativity and technical expertise.
 Hardware engineers and cloud infrastructure engineers have average salaries of $137,800 and $137,645, respectively. Hardware engineers are vital for designing and developing physical computing components, while cloud infrastructure engineers ensure the reliability and scalability of cloud services, both essential roles in the tech ecosystem.
