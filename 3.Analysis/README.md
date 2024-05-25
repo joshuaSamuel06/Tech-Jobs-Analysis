@@ -10,11 +10,11 @@ The Stack Overflow Survey is a widely recognized dataset within the tech communi
 The dataset, available at [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/), was selected for its extensive coverage of developer-related topics and its relevance to our research objectives. With data spanning multiple years and encompassing a diverse range of developer demographics and preferences, it serves as a rich source for our analysis.
 
 ## Project Size Considerations
-Given the extensive nature of the Stack Overflow Survey dataset, we structured our analysis into three separate folders, each dedicated to a specific analyst's contributions:
+Given the extensive nature of the Stack Overflow Survey dataset, we structured our analysis into three separate folders:
 
-- **Joshua_Analysis**
-- **Mustafa_Analysis**
-- **Negin_Analysis**
+- **Analysis_1**
+- **Analysis_2**
+- **Analysis_3**
 
 Each folder contains in-depth analyses conducted by our team, focusing on different aspects of the dataset. By dividing the analysis among team members, we aimed to distribute workload efficiently and ensure thorough coverage of the research questions.
 Within each analysis folder, you'll find detailed insights, visualizations, and interpretations aimed at addressing specific questions outlined in the main README file. This collaborative approach allowed us to leverage individual expertise while maintaining a cohesive framework for the project.
