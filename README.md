@@ -37,8 +37,8 @@ During the data cleaning phase, we created three distinct processed datasets fro
 
 To manage the extensive Stack Overflow Survey dataset effectively, we organized our analysis into three distinct folders, each reflecting the contributions of a specific analyst:
 
-- **First Data Cleaning**: [Data cleaning](/3.Analysis/Analysis_1)
-- **Second Data Cleaning**: [Data cleaning](/3.Analysis/Analysis_3/Data-Cleaning) 
+- **Analysis_1 Cleaning**: [Data cleaning](/3.Analysis/Analysis_1)
+- **Analysis_3 Cleaning**: [Data cleaning](/3.Analysis/Analysis_3/Data-Cleaning) 
 
 **Description:** Each folder contains comprehensive data cleaning performed by our team members, focusing on various aspects of the dataset. 
 
@@ -47,9 +47,9 @@ To manage the extensive Stack Overflow Survey dataset effectively, we organized 
 ### Data Analysis
 By dividing the analysis among team members, we aimed to distribute workload efficiently and ensure thorough coverage of the research questions. Within each analysis folder, you'll find detailed insights, visualizations, and interpretations aimed at addressing specific questions outlined in the main README file.
 
-- **First Analysis File**: [Data analysis](/3.Analysis/Analysis_1/Data_Analysis)
-- **Second Analysis File**: [Data analysis](/3.Analysis/Analysis_3/Data-Analysis)
-- **Third Analysis File**: [Data analysis](/3.Analysis/Analysis_2)
+- **Analysis_1 File**: [Data analysis](/3.Analysis/Analysis_1/Data_Analysis)
+- **Analysis_2 File**: [Data analysis](/3.Analysis/Analysis_2)
+- **Analysis_3 File**: [Data analysis](/3.Analysis/Analysis_3/Data-Analysis)
 
 <br />
 
