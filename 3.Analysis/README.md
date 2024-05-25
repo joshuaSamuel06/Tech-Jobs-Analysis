@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This report provides an overview of the data cleaning phase and data analysis phase for the Stack Overflow Survey Analysis project. The aim is to ensure transparency and clarity, particularly for those unfamiliar with the project's objectives and methodologies.
+This report provides an overview of the data cleaning and data analysis phase for the Stack Overflow Survey Analysis project. The aim is to ensure transparency and clarity, particularly for those unfamiliar with the project's objectives and methodologies.
 
 ## Background and Dataset Selection
 The Stack Overflow Survey is a widely recognized dataset within the tech community, offering insights into developers' preferences, trends, and behaviors. Our project focuses on analyzing this dataset to gain valuable insights into the global developer community.
