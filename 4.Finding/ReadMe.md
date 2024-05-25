@@ -274,7 +274,7 @@ This visualization will show the opinions of respondents on participating in a p
 ### AI and Tech Industry
 The advancement of AI and its tools has significantly streamlined workflows, benefiting users by making their tasks easier. However, it has also raised concerns about job security and created uncertainty about the appropriateness of using AI tools in professional settings. This data provides insights into these concerns by showcasing the general consensus on these issues, helping to answer some of the pressing questions and clear up confusion.
 
-## Is AI being used in the development process?
+## AI and its use in Development process?
 
 In response to the question, "Do you currently use AI tools in your development process?" The majority of professional developers answered yes (28.453k), while others said no but they plan to (16.98k), indicating a positive trend towards AI usage. However, a notable number of developers stated they do not use AI tools in their development process and have no plans to do so (19.538k). This insight suggests that while some developers appreciate the ease of work AI offers, others might see it as a hindrance to their learning process. 
 The bar chart also reflects similar ratios among other groups, such as those learning to code, former developers, and hobbyists, providing a comprehensive view of attitudes towards AI in the tech community.
