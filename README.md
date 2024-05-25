@@ -47,9 +47,9 @@ To manage the extensive Stack Overflow Survey dataset effectively, we organized 
 ### Data Analysis
 By dividing the analysis among team members, we aimed to distribute workload efficiently and ensure thorough coverage of the research questions. Within each analysis folder, you'll find detailed insights, visualizations, and interpretations aimed at addressing specific questions outlined in the main README file.
 
-- **Joshua_Analysis**: [Data analysis](/3.Analysis/Joshua_Analysis/Data_Analysis)
-- **Negin_Analysis**: [Data analysis](/3.Analysis/Negin-Analysis/Data-Analysis)
-- **Mustafa-analysis**: [Data analysis](/3.Analysis/Mustafa-analysis)
+- **First Analysis File**: [Data analysis](/3.Analysis/Analysis_1/Data_Analysis)
+- **Second Analysis File**: [Data analysis](/3.Analysis/Analysis_3/Data-Analysis)
+- **Third Analysis File**: [Data analysis](/3.Analysis/Analysis_2)
 
 <br />
 
