@@ -32,3 +32,15 @@
 3. Emphasize the importance of writing well-structured and comprehensible code while documenting the development process.
 4. Utilize statistical techniques to extract meaningful insights from data, enabling informed decision-making.
 5. Cultivate effective communication within the team by documenting analysis procedures and fostering transparent collaboration.
+
+### Zia
+1. Learning various statistical techniques and methods for data analysis, hypothesis testing, and predictive modeling.
+
+2. Gain experience of working on real-world data science projects, applying learned concepts and techniques to solve practical problems.
+   
+3. Develop critical thinking and problem-solving skills to identify and address data-related challenges and make data-driven decisions.
+
+4. Learn how to collect data, data types, and key metrics to satisfy our research questions.
+  
+5. Work on a project which I really do care about.
+
