@@ -386,7 +386,7 @@ Acording to the image, here's a customized interpretation of the trust levels in
 - *Poland*
 - *Nigeria*
 
-Group 4: Low Trust:  The final group consists of countries with the majority of responses in the 'Somewhat distrust' and 'Highly distrust' categories. These countries show skepticism towards AI accuracy, which could stem from negative experiences, lack of information, or cultural attitudes towards technology.
+**Group 4: Low Trust**: The final group consists of countries with the majority of responses in the 'Somewhat distrust' and 'Highly distrust' categories. These countries show skepticism towards AI accuracy, which could stem from negative experiences, lack of information, or cultural attitudes towards technology.
 - *Iran*
 - *Egypt*
 - *Turkey*
