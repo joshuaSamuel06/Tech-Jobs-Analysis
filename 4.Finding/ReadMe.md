@@ -342,13 +342,65 @@ Furthermore, the pie chart illustrates opinions on whether using AI in the devel
 
 ![Favorability of AI Usage](Charts/3.svg)
 
-Additionally, a grouped box plot visualizes the distribution of trust levels in the accuracy of AI tools across different countries, categorized alphabetically. This allows for comparison of trust levels within and between country groups, providing insights into variations in attitudes towards AI tool accuracy. The visualization facilitates easy identification of differences in trust levels among countries, aiding in understanding global perceptions of AI tool accuracy.
+Additionally, a grouped box plot visually represents the distribution of trust levels on accurancy of AI within each group of countries, divided into three sections based on the alphabetical range of their names.
 
-The code snippet provided generates the grouped box plot, allowing for customization and exploration of trust level distributions in AI tool accuracy by country group.
+1. **Median**: The line inside the box represents the median trust level, indicating the central tendency of the data.
+2. **Interquartile Range (IQR)**: The box itself spans the IQR, containing the middle 50% of the data.
+3. **Whiskers**: Lines extending from the box represent the range of the data, excluding outliers. They typically extend 1.5 times the IQR from the first and third quartiles.
+4. **Outliers**: Individual data points lying beyond the whiskers are considered outliers and are shown separately.
 
-![Trust in AI Tool Accuracy by Country](Charts/5.png)
+Acording to the image, here's a customized interpretation of the trust levels in AI accuracy by country, categorized into four groups:
 
+**Group 1: High Trust**: Countries in this group have a significant portion of responses in the 'Highly trust' category, with long bars extending towards this end. These countries exhibit a strong confidence in the accuracy of AI, suggesting positive public opinion and possibly good experiences with AI technologies.
+- *Finland*
+- *Singapore*
+- *India*
+- *Vietnam*
+- *China*
 
+**Group 2: Moderate Trust**: This group includes countries with a majority of responses in the 'Somewhat trust' category. The trust levels are positive but not as strong as in Group 1, indicating a cautiously optimistic view of AI among the public.
+- *Netherlands*
+- *Indonesia*
+- *United Arab Emirates*
+- *Sweden*
+- *Malaysia*
+- *Thailand*
+- *Philippines*
+- *South Korea*
+- *Kenya*
+- *Mexico*
+
+**Group 3: Neutral / Mixed Feelings**: Countries here have their longest bars around the 'Neutral/Do not know' point. This suggests a lack of strong opinions towards AI accuracy, which could be due to a lack of exposure or understanding of AI technologies.
+- *Germany*
+- *United Kingdom*
+- *United States*
+- *Japan*
+- *Brazil*
+- *France*
+- *Italy*
+- *Spain*
+- *Australia*
+- *Canada*
+- *Russia*
+- *South Africa*
+- *Poland*
+- *Nigeria*
+
+Group 4: Low Trust:  The final group consists of countries with the majority of responses in the 'Somewhat distrust' and 'Highly distrust' categories. These countries show skepticism towards AI accuracy, which could stem from negative experiences, lack of information, or cultural attitudes towards technology.
+- *Iran*
+- *Egypt*
+- *Turkey*
+- *Greece*
+- *Iraq*
+- *Pakistan*
+- *Bangladesh*
+- *Sudan*
+- *Venezuela*
+- *Argentina*
+- *Colombia*
+
+![Trust in AI Tool Accuracy by Country](Charts/16.png)
+The grouped box plot aids in exploring variations in trust levels among different regions, guiding policymakers, researchers, and industry professionals in understanding the factors influencing trust in AI tools and devising strategies to address concerns or capitalize on positive perceptions.
 
 <br>
 
