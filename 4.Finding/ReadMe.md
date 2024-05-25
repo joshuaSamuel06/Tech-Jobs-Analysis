@@ -263,12 +263,6 @@ These findings highlight the varying degrees of flexibility and adaptability acr
 ![Alt text](Charts/19.png)
 ![Alt text](Charts/20.png)
 
-<br>
-
-## Opinions on Participating in Professional Developer Series by Age Group.
-This visualization will show the opinions of respondents on participating in a professional developer series categorized by age groups. Each age group is represented on the x-axis, while the number of respondents is shown on the y-axis. The respondents' opinions are divided into two categories: "Yes" and "No," represented by bars of different colors. The height of each bar corresponds to the number of respondents within that age group who answered either "Yes" or "No" to participating in the professional developer series.
-
-![Alt text](Charts/18.png)
 
 <br>
 ### AI and Tech Industry
@@ -279,6 +273,7 @@ The advancement of AI and its tools has significantly streamlined workflows, ben
 In response to the question, "Do you currently use AI tools in your development process?" The majority of professional developers answered yes (28.453k), while others said no but they plan to (16.98k), indicating a positive trend towards AI usage. However, a notable number of developers stated they do not use AI tools in their development process and have no plans to do so (19.538k). This insight suggests that while some developers appreciate the ease of work AI offers, others might see it as a hindrance to their learning process. 
 The bar chart also reflects similar ratios among other groups, such as those learning to code, former developers, and hobbyists, providing a comprehensive view of attitudes towards AI in the tech community.
 
+Furthermore, the pie chart illustrates opinions on whether using AI in the development process is favorable. A large majority, 48.3%, believe it is favorable, while 27.9% think it is very favorable. On the other hand, out of the total 23.8%, most think its indifferent, with some finding it unfavorable or are uncertain about its impact.
 ![Alt text](Charts/4.png)
 
 ## How favorable is your stance on using AI tools as part of your development workflow?
