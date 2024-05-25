@@ -1,5 +1,5 @@
 
-# Educational and AI Trends in the Tech Industry
+# Tech Industry Trends: Insights from Stack Overflow's 2023 Survey
 
 ## Introduction
 
