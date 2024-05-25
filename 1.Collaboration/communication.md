@@ -7,11 +7,19 @@
         you can share the rest in confidence with you group by another channel
 -->
 
+
+
 # Communication
 
 ## Group Rules
 
 <!-- any general rules you'd like to set for your group? -->
+
+1. Be respectful and considerate of each other's opinions and perspectives.
+2. Respond to messages and notifications in a timely manner.
+3. Keep discussions focused on the project and relevant topics.
+4. Strive for clear and concise communication.
+5. Celebrate achievements and support each other during challenges.
 
 ---
 
@@ -19,43 +27,48 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|  Wednesday 4:30 PM   | GitHub Issues, Slack, Video Call, Whatsapp    |     Task allocation and updates                    |
+|  Saturday 1:00PM   |  Slack, Video Call    |     Weekly progress and planning                    |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Regular updates, task assignment, and issue discussions.
+- **Pull Requests**: Code reviews and merging decisions.
+- **GitHub Discussions**: General project discussions and decision-making.
+- **Slack/Discord**: Casual communication, quick questions, and updates.
+- **Video Calls**: Weekly meetings for in-depth discussions and planning.
 
----
 
 ## Availability
 
-### Availability for calling/messaging
+### Availability for calling/messaging (Based On EST Time Zone)
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
-| _Murtaza_ | 19 - 20 | 17 - 20 |  17 - 20  | 17 - 20  | :-----: | :-----:  | :-----: | [JUST FOR TESTING]
+| Joshua Samuel| 10:00 AM to 6:00 PM| 10:00 AM to 2:00 PM |  4:00 PM to 7:00 PM | 10:00 AM to 6:00 PM | 10:00 AM to 6:00 PM | 10:00 AM to 6:00 PM| 6:00 PM to 12:00AM |
+| Negin Ahmadi| 12:00 PM to 6:00 PM| 12:00 PM to 6:00 PM |  12:00 PM to 6:00 PM | 12:00 PM to 6:00 PM | 12:00 PM to 6:00 PM | 3:00 AM to 6:00 PM| 3:00 AM to 6:00PM |
+|Zia Yazdani| 1:00 PM to 3:00 PM| 1:00 PM to 3:00 PM |  1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 10:00 AM to 3:00 PM| 9:00 AM to 3:00PM |
+| _Murtaza_ | 19 - 20 | 17 - 20 |  17 - 20  | 17 - 20  | :-----: | :-----:  | :-----: |
+|Mustafa| 1:00 PM to 3:00 PM| 1:00 PM to 3:00 PM |  1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 10:00 AM to 3:00 PM| 9:00 AM to 3:00PM |
+ 
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Joshua Samuel : 4 hours
+- Negin Ahmadi : 4 hour 
+- Zia Yazdani : 2-3 hours 
+-_Murtaza_: 2-3 hours
+- Mustafa: 1-2 hours
 
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
 stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+based on how long you've been stuck on the sAMe problem:
 
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
+
