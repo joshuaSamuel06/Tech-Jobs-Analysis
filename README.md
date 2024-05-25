@@ -55,6 +55,7 @@ By dividing the analysis among team members, we aimed to distribute workload eff
 
 ### Our Findings
 In the dynamic landscape of the tech industry, understanding the educational backgrounds, skill proficiencies, and preferences of its workforce is crucial. Our extensive survey analysis sheds light on these critical aspects, providing valuable insights into the qualifications and skills that drive success in programming and related fields.
+
 **For a more detailed explanation of this phase, you can refer to the following link:** [Finding](/4.Finding/ReadMe.md)
 
 
