@@ -248,11 +248,6 @@ Since the onset of COVID-19, the work process has evolved into three main types:
 
 The data reveals intriguing preferences across different age groups. Visualization shows that only about 20% of individuals prefer in-person work, with the exception of the youngest group (18-24 years old), where 25% prefer in-person work. Overall, most people from each age group prefer remote or hybrid work. The preference for remote work is notably higher among older individuals, who likely seek to conserve energy from commuting and enhance their productivity.
 
-<br>
-
-## Analyze Preference Variation based on different factors: Country 
-This chart does not provide any analysis; it only presents raw data or the information written in the description cannot be analyzed using this chart. Therefore, there is nothing to describe.
-![Alt text](Charts/11.png)
 
 <br>
 
