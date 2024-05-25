@@ -59,7 +59,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Joshua Samuel : 4 hours
 - Negin Ahmadi : 4 hour 
 - Zia Yazdani : 2-3 hours 
--_Murtaza_: 2-3 hours
+- _Murtaza_: 2-3 hours
 - Mustafa: 1-2 hours
 
 ## Asking for Help
