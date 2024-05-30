@@ -52,6 +52,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 |Zia Yazdani| 1:00 PM to 3:00 PM| 1:00 PM to 3:00 PM |  1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 10:00 AM to 3:00 PM| 9:00 AM to 3:00PM |
 | _Murtaza_ | 19 - 20 | 17 - 20 |  17 - 20  | 17 - 20  | :-----: | :-----:  | :-----: |
 |Mustafa| 1:00 PM to 3:00 PM| 1:00 PM to 3:00 PM |  1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 1:00 PM to 3:00 PM | 10:00 AM to 3:00 PM| 9:00 AM to 3:00PM |
+| Viktoria Berestiana | 19 - 21 | 19 - 21 |  20 - 22  | 20 - 22  | 20 - 22 | :-----:  | :-----: |
  
 
 ### How many hours everyone has per day:
@@ -61,6 +62,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Zia Yazdani : 2-3 hours 
 - _Murtaza_: 2-3 hours
 - Mustafa: 1-2 hours
+- Viktoria: 2-3 hours
 
 ## Asking for Help
 
